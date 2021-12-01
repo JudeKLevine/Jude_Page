@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Jude KLevine</h1>
-<h3 align="center">curious and passionated about programming from Senegal 👨‍💻</h3>
+<h3 align="center">curious and passionated about programming from France 👨‍💻</h3>
 <h4 align="center">Full Stack Developer</h4>
 
 <p align="left"> <img src="https://img.shields.io/github/followers/MAMADOU12-max?style=social" alt="MAMADOU12-max"/> </p>
@@ -14,9 +14,9 @@
 
 - 🌱 I’m currently learning **Angular, React, Springboot, Flutter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MAMADOU12-max?tab=repositories](https://github.com/MAMADOU12-max?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/JudeKLevine?tab=repositories](https://github.com/JudeKLevine?tab=repositories)
 
-- 💬 Ask me about **No ! Check out my Portfolio to know more -  **bit.ly/judeklevine** 
+- 💬 Ask me about **No ! Check out my Portfolio to know more -  **https://bit.ly/judeklevine** 
 
 - 📫 How to reach me **jk.klevine@gmail.com**
 
